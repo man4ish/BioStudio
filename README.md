@@ -80,7 +80,7 @@ Visit [http://127.0.0.1:8000](http://127.0.0.1:8000)
 |------------------------|----------------------------------------------------------------------|
 | `home/`                | Landing page for the application                                     |
 | `igv_viewer/`          | Visualize genomic tracks via IGV.js                                 |
-| `pipeline_manager/`    | Launch and monitor nextflow pipelines or workflows                           |
+| `pipeline_manager/`    | Launch and monitor Nextflow pipelines for WGS, WES, Methylation, and RNA-Seq workflows                          |
 | `ml_predictor/`        | Apply ML models to biological datasets                              |
 | `variant_annotation/`  | Annotate VCF or variant files using bioinformatics tools           |
 | `pathway_enrichment/`  | Run Enrichr or GSEA on gene lists and visualize results            |
