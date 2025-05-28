@@ -1,4 +1,4 @@
-# Visualization Workbench
+# BioStudio
 
 A modular Django-based bioinformatics web application that integrates tools for genomic data visualization, machine learning prediction, variant annotation, and pathway enrichment analysis.
 
@@ -7,7 +7,7 @@ A modular Django-based bioinformatics web application that integrates tools for 
 ## Project Structure
 
 ```
-visualization_workbench/
+BioStudio/
 ├── manage.py                # Django management script
 ├── db.sqlite3               # SQLite DB for development
 ├── start_app.sh             # Shell script to run the app
