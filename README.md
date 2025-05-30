@@ -23,6 +23,7 @@ BioStudio/
 ├── single_cell_analysis/    # Single-cell RNA-seq data processing and visualization
 ├── gene_annotation/         # Functional annotation of genes and variants
 ├── ollama-server/           # Backend and API for Ollama LLM integration
+├── bio_navigator/           # Interactive genomic data query and analysis using Hugging Face-powered AI
 └── visualization_workbench/ # Main Django project config
 ```
 
@@ -89,7 +90,7 @@ Visit [http://127.0.0.1:8000](http://127.0.0.1:8000)
 | `single_cell_analysis/`| Single-cell RNA-seq data processing and visualization              |
 | `gene_annotation/`     | Functional annotation of genes and variants leveraging LLMs        |
 | `ollama-server/`       | Backend and API for Ollama LLM integration                          |
-
+| `bio_navigator/`        | Interactive genomic data query and analysis using Hugging Face-powered AI |
 
 
 ---
