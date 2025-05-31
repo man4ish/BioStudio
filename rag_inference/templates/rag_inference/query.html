@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RAG Query</title>
+</head>
+<body>
+    <h1>Ask your Gene Therapy question</h1>
+    <form method="post">
+        {% csrf_token %}
+        <textarea name="question" rows="5" cols="80" placeholder="Enter your question here...">{{ question }}</textarea><br><br>
+        <button type="submit">Get Answer</button>
+    </form>
+
+    {% if answer %}
+    <h2>Answer:</h2>
+    <div style="white-space: pre-wrap; border: 1px solid #ccc; padding: 10px;">
+        {{ answer }}
+    </div>
+    {% endif %}
+</body>
+</html>
+

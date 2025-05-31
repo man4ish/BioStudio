@@ -24,6 +24,8 @@ BioStudio/
 ├── gene_annotation/         # Functional annotation of genes and variants
 ├── ollama-server/           # Backend and API for Ollama LLM integration
 ├── bio_navigator/           # Interactive genomic data query and analysis using Hugging Face-powered AI
+├── data_uploader/           # Data upload and processing for various apps
+├── rag_inference/           # Retrieval-Augmented Generation (RAG) for querying biological documents
 └── visualization_workbench/ # Main Django project config
 ```
 
@@ -77,21 +79,22 @@ Visit [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ## Modules Overview
 
-| Module                 | Description                                                          |
-|------------------------|----------------------------------------------------------------------|
-| `home/`                | Landing page for the application                                     |
-| `igv_viewer/`          | Visualize genomic tracks via IGV.js                                 |
-| `pipeline_manager/`    | Launch and monitor pipelines or workflows                           |
-| `ml_predictor/`        | Apply ML models to biological datasets                              |
-| `variant_annotation/`  | Annotate VCF or variant files using bioinformatics tools           |
-| `pathway_enrichment/`  | Run Enrichr or GSEA on gene lists and visualize results            |
-| `network_analysis/`    | Analyze and visualize keyword co-occurrence networks from PubMed   |
-| `literature_summarizer/`| Summarize, analyze trends, and extract entities from PubMed data using Large Language Models (LLMs)  |
-| `single_cell_analysis/`| Single-cell RNA-seq data processing and visualization              |
-| `gene_annotation/`     | Functional annotation of genes and variants leveraging LLMs        |
-| `ollama-server/`       | Backend and API for Ollama LLM integration                          |
-| `bio_navigator/`        | Interactive genomic data query and analysis using Hugging Face-powered AI |
-
+| Module                 | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| `home/`                | Landing page for the application                                            |
+| `igv_viewer/`          | Visualize genomic tracks via IGV.js                                        |
+| `pipeline_manager/`    | Launch and monitor pipelines or workflows                                  |
+| `ml_predictor/`        | Apply ML models to biological datasets                                     |
+| `variant_annotation/`  | Annotate VCF or variant files using bioinformatics tools                  |
+| `pathway_enrichment/`  | Run Enrichr or GSEA on gene lists and visualize results                   |
+| `network_analysis/`    | Analyze and visualize keyword co-occurrence networks from PubMed           |
+| `literature_summarizer/` | Summarize, analyze trends, and extract entities from PubMed data using Large Language Models (LLMs) |
+| `single_cell_analysis/` | Single-cell RNA-seq data processing and visualization                     |
+| `gene_annotation/`     | Functional annotation of genes and variants leveraging LLMs               |
+| `ollama-server/`       | Backend and API for Ollama LLM integration                                |
+| `bio_navigator/`       | Interactive genomic data query and analysis using Hugging Face-powered AI |
+| `data_uploader/`       | Upload and process biological datasets, including building FAISS indexes for RAG |
+| `rag_inference/`       | Query and retrieve answers from biological documents using Retrieval-Augmented Generation (RAG) |
 
 ---
 

@@ -50,6 +50,8 @@ INSTALLED_APPS = [
     'single_cell_analysis',
     "gene_annotation",
     'bio_navigator',
+    'data_uploader',
+    'rag_inference',
 ]
 
 MIDDLEWARE = [
