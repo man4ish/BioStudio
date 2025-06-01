@@ -154,3 +154,5 @@ http://localhost:8000
 
 to access the Django web application.
 
+![Screenshot](./screenshots/homepage.png)
+
