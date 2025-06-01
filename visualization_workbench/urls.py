@@ -39,6 +39,7 @@ urlpatterns = [
     path('upload/', include('data_uploader.urls')),
     #path('rag/', include('rag_inference.urls')), 
     path('rag_inference/', include('rag_inference.urls')), 
+    path('variant_interpreter/', include('variant_interpreter.urls')),
     # Optional: Redirect root to jobs
     # path('', lambda request: redirect('jobs/', permanent=False)),
 ] 

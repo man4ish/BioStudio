@@ -27,3 +27,4 @@ requests==2.31.0
 beautifulsoup4==4.12.2
 faiss-cpu==1.11.0
 PyMuPDF==1.23.7
+langchain_ollama

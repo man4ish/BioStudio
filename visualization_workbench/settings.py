@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     'bio_navigator',
     'data_uploader',
     'rag_inference',
+    "variant_interpreter", 
 ]
 
 MIDDLEWARE = [
