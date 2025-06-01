@@ -1,0 +1,17 @@
+<h2>Upload PDF for Gene Therapy Documents</h2>
+
+<form method="post" enctype="multipart/form-data">
+  {% csrf_token %}
+  <input type="file" name="pdf" required>
+  <button type="submit">Upload PDF</button>
+</form>
+
+<form method="post" action="{% url 'build_faiss_index' %}">
+  {% csrf_token %}
+  <button type="submit">Build FAISS Index</button>
+</form>
+
+{% if message %}
+  <p><strong>{{ message }}</strong></p>
+{% endif %}
+

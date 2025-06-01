@@ -1,0 +1,136 @@
+MITOCHONDRIALDNAPARTB
+2022,VOL.7,NO.2,333–335
+https://doi.org/10.1080/23802359.2022.2030819
+MITOGENOME ANNOUNCEMENT
+Complete mitochondrial genome of giant cricket Tarbinskiellus portentosus
+(Orthoptera: Gryllinae) and phylogenetic analysis
+Cheng-Ye Wanga,b, Pan-Li Yanga,b,c, Zhao Hea,b, Long Suna,b, Min Zhaoa,b and Ying Fenga,b
+aInstituteof HighlandForestScience,Chinese Academyof Forestry,Kunming, PR China;bKey Laboratoryof Breedingand Utilizationof
+ResourceInsects, NationalForestry andGrassland Administration, Kunming, PRChina;cCollegeof Forestry,Nanjing Forestry University,
+Nanjing,PRChina
+ABSTRACT ARTICLEHISTORY
+Tarbinskiellus portentosus (Lichtenstein, 1796) is an agricultural and forestry pest, but people in some Received27July2021
+places use it as a delicacy. The complete mitogenome of T. portentosus (GenBank accession number Accepted11January2022
+MZ427921) is 15, 498bp in size, including 13 protein-coding genes, 22 transfer RNAs, two ribosomal
+RNAs genes, and a noncoding AþT-rich region. The AþT-rich region is located between 12S rRNA KEYWORDS
+and tRNAIle. The base composition of the whole T. portentosus mitogenome is 40.62% for A, 9.87% for Mitogenome;Tarbinskiellus
+portentosus;edible
+G,32.20% forT, and17.31% for C, witha high AT contentof72.82%. The phylogenyanalysis indicated
+cricket;phylogeny
+thatT.portentosushadacloserelationshipwithCardiodactylusmuiri.Thepresentdatacouldcontribute
+tofurtherdetaileddiversityandphylogeographicanalysisforthisediblecricket.
+Tarbinskiellus portentosus (Lichtenstein, 1796), with the com- The T. portentosus mitogenome is 15,498bp in size
+mon names of short-tail or giant cricket, is an agricultural (GenBank accession number MZ427921), including 13 typical
+and forestry pest, but people in some places use it as a deli- invertebrate PCGs, 22 transfer RNA genes, two ribosomal RNA
+cacy (Soren et al. 2021). T. portentosus belongs to Orthoptera: genes, and a noncoding control region (AþT-rich). The AþT
+Grylloidea: Gryllidae (Myers et al. 2021). The protein content content of the whole T. portentosus mitogenome is 72.82%,
+of the adult T. portentosus is 58%, which made it a potential showing an obvious AT mutation bias (Nguyen et al. 2020).
+edible insect (Magara et al. 2020). T. portentosus belongs to The AþT-rich region exhibits the highest AþT content
+(77.58%) in the T. portentosus mitogenome.
+Orthoptera: Gryllidae: Gryllinae, and the reported distribution
+All the 13 PCGs, 11 PCGs use standard ‘ATN’ as start
+including China, India, Malaya, Myanmar, Nepal, Pakistan, and
+codons. COX1 use ‘TCG’ as start codon, and ND1 use ‘TTG’ as
+Vietnam (Cigliano et al. 2020). Elucidating the sequence and
+structure of T. portentosus mitogenome is important for diver- start codon. As to the stop codon, COX3 and ND5 use ‘T’ as
+stop codons, and the reminding 11 PCGs have the common
+sity and phylogeographic analysis of this edible cricket.
+mitochondrial stop codon ‘TAA’. Among the 22 tRNAs, 19
+The specimen of T. portentosus in this work was obtained
+from Baise, Guangxi, China (N 23(cid:2)250, E 106(cid:2)380), and depos- tRNAs could be folded into the typical cloverleaf secondary
+structures; while, tRNASer (GCU) had completely lost the dihy-
+ited in the insect specimen room (contact person: Cheng-Ye
+drouridine (DHU) stem; tRNAPhe (GAA) and tRNATyr (GUA) had
+Wang, email: cywang11@126.com) of Research Institute of
+lost the TuC loop. The 12S rRNA gene is located between the
+Resource Insects with voucher number RIRI-w-20200730. AþT-rich region and tRNAVal , while the 16S rRNA is located
+Sequencing work of the complete mitogenome of T. porten-
+between
+tRNAVal
+and
+tRNALeu
+.
+tosus was performed by Illumina Nextseq500 in Beijing
+Based on the concatenated PCGs sequences, the max-
+Microread Genetics Co., Ltd., with a total data volume 4G
+imum-likelihood method was used to construct the phylo-
+(150bp Reads). High-quality reads were assembled from genetic relationship between T. Portentosus and 18 other
+scratch using IDBA-UD and SPAdes (Bankevich et al. 2012; Gryllinae species, with two Gryllotalpinae species used as out-
+Peng et al. 2012). Protein-coding genes (PCGs) of the T. por- groups (Figure 1). The phylogenetic analysis was conducted
+tentosus mitogenome were identified using BLAST search in using MEGA version X (Kumar et al. 2018). Potential substitu-
+NCBI, and tRNA genes were identified using the tRNAscan-SE tion saturation of PCGs data set was assessed using DAMBE5
+search server (Schattner et al. 2005). The final assembled software (Xia 2018), and the outcome (Iss (0.072) < Iss.c
+mitogenome was also verified on the MITOS web server (0.784), p<.05) indicated that the substitutions between
+(Bernt et al. 2013). sequences did not reach saturation and the sequences can
+CONTACTMinZhao mzhao@caf.ac.cn;YingFeng rirify@139.com InstituteofHighlandForestScience,ChineseAcademyofForestry,Kunming650224,
+PRChina
+(cid:1)2022TheAuthor(s).PublishedbyInformaUKLimited,tradingasTaylor&FrancisGroup.
+ThisisanOpenAccessarticledistributedunderthetermsoftheCreativeCommonsAttributionLicense(http://creativecommons.org/licenses/by/4.0/),whichpermitsunrestricteduse,
+distribution,andreproductioninanymedium,providedtheoriginalworkisproperlycited.
+334 C.-Y.WANGETAL.
+Figure1. PhylogenetictreeshowingtherelationshipbetweenT.portentosusand18otherGryllinaespeciesbasedonmaximum-likelihoodmethodperformedusing
+500bootstrapreplicates.TwoGryllotalpinaespecies(GryllotalpaorientalisandG.pluvialis)wereusedasoutgroups.GenBankaccessionnumbersofeachsequence
+werelistedinthetreebehindtheircorrespondingspeciesnames.
+be used for subsequent phylogenetic analysis. The phylogeny Funding
+analysis indicated that T. portentosus had a close relationship
+This research was funded by Cooperation Project of Zhejiang Province
+with Cardiodactylus muiri (Figure 1), which add new informa-
+and CAF [grant number 2019SY02], Lancang-Mekong Cooperation
+tion to the evolutionary lineage research of T. portentosus SpecialFund Projects [JiaoWaiSiYa[2020]619], and FundamentalResearch
+(Tantrawatpan et al. 2011; He et al. 2020; Pradit et al. 2021). FundsfortheCentralPublicResearchInstitutions[riricaf2014002Z].
+This mitogenome data might be also valuable for further
+phylogeography analyses for this edible cricket.
+Data availability statement
+Ethical statement The genome sequence data that support the findings of this study are
+openly available in GenBank of NCBI at [https://www.ncbi.nlm.nih.gov]
+Research procedures in this work did not violate any relevant
+under the accession no. MZ427921. The associated BioProject, SRA, and
+laws and regulations. No relevant ethics committee or bio-sample numbers are PRJNA741082, SRR14902953, and
+Institution was applicable for the material and data in SAMN19844586,respectively.
+this study.
+References
+Author contributions Bankevich A, Nurk S, Antipov D, Gurevich AA, Dvorkin M, Kulikov AS,
+Lesin VM, Nikolenko SI, Pham S, Prjibelski AD, et al. 2012. SPAdes: a
+Wang CY, Zhao M and Feng Y were involved in the concep-
+new genome assembly algorithm and its applications to single-cell
+tion and design of the paper. Yang PL, He Z and Sun L were sequencing.JComputBiol.19(5):455–477.
+involved in the analysis and interpretation of the data. All BerntM,DonathA, Ju€hling F,Externbrink F,FlorentzC,FritzschG,Pu€tzJ,
+Middendorf M, Stadler PF. 2013. MITOS: improved de novo metazoan
+authors were involved in the drafting and revising of the
+mitochondrialgenomeannotation.MolPhylogenetEvol.69(2):313–319.
+paper. All authors agreed the final version to be published
+Cigliano MM, Braun H, Eades DC, Otte D. 2020. Orthoptera species file.
+and agree to be accountable for all aspects of the work. Version5.0/5.0.http://Orthoptera.SpeciesFile.Org.
+He ZQ, Shen CZ, Wu X, Chen L, Li K. 2020. Report of a new genus
+Mirigryllus belonging to tribe Modicogryllini, with a new species M.
+Disclosure statement nigrus from Zhejiang, China (Orthoptera: Gryllidae: Gryllinae:
+Modicogryllini).Zootaxa.4869(1):zootaxa.4869.1.5.
+Theauthorsdeclare nocompetingmaterials inthepreparationand exe- Kumar S, Stecher G, Li M, Knyaz C, Tamura K. 2018. MEGA X: molecular
+cution of this manuscript. The authors are responsible for the content evolutionary genetics analysis across computing platforms. Mol Biol
+andwritingofthisarticle. Evol.35(6):1547–1549.
+MITOCHONDRIALDNAPARTB 335
+MagaraH,NiassyS,AyiekoMA,MukundamagoM,EgonyuJP,TangaCM, in mainland Southeast Asia examined by mitochondrial DNA sequen-
+Kimathi EK, Ongere JO, Fiaboe K, Hugel S, et al. 2020. Edible crickets ces.IntJTropInsectSci.
+(Orthoptera) around the world: distribution, nutritional value, and Schattner P, Brooks AN, Lowe TM. 2005. The tRNAscan-SE, snoscan and
+snoGPS web servers for the detection of tRNAs and snoRNAs. Nucleic
+otherbenefits-Areview.FrontNutr.7:537915.
+Myers P, Espinosa R, Parr CS, Jones T, Hammond GS, Dewey TA. 2021.
+AcidsRes.33:W686–W689.
+Soren AD, Choudhury K, Sapruna PJ, Sarma D. 2021. Nutrient and toxic
+Theanimaldiversityweb.https://animaldiversity.org.
+heavy metal assessment of Tarbinskiellus portentosus and
+NguyenDT,WuB,XiaoS,HaoW.2020.Evolutionofarecord-settingAT-
+Schizodactylus monstrosus consumed by the Bodo tribe in Assam,
+rich genome: indel mutation, recombination, and substitution bias.
+India.IntJTropInsectSci.41(3):2001–2006.
+GenomeBiolEvol.12(12):2344–2354.
+TantrawatpanC,SaijunthaW,PilabW,SakdakhamK,PasornP,Thanonkeo
+PengY,LeungHC,YiuSM,ChinFY.2012.IDBA-UD:adenovoassembler
+S, Thiha Satrawaha R, Petney T. 2011. Genetic differentiation among
+for single-cell and metagenomic sequencing data with highly uneven
+populations of Brachytrupes portentosus (Lichtenstein 1796)
+depth.Bioinformatics.28(11):1420–1428.
+(Orthoptera: Gryllidae) in Thailand and the Lao PDR: the Mekong River
+Pradit N, Saijuntha W, Pilap W, Suksavate W, Agatsuma T, Jongsomchai asabiogeographicbarrier.BullEntomolRes.101(6):687–696.
+K, Kongbuntad W, Tantrawatpan C. 2021. Genetic variation of Xia X. 2018. DAMBE7: new and improved tools for data analysis in
+Tarbinskiellus portentosus (Lichtenstein 1796) (Orthoptera: Gryllidae) molecularbiologyandevolution.MolBiolEvol.35(6):1550–1552.
