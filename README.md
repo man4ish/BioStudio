@@ -154,5 +154,37 @@ http://localhost:8000
 
 to access the Django web application.
 
+## Kubernetes Deployment (Optional)
+
+You can deploy BioStudio and Ollama Server using Kubernetes for production-ready scalability and orchestration. This setup uses Deployment and Service manifests located in the `K8s` directory.
+
+---
+
+### 1. Create a Namespace (optional)
+
+```bash
+kubectl create namespace biostudio
+```
+### 2. Apply Kubernetes Configurations
+Apply the Deployment and Service manifests for both BioStudio and Ollama Server from the K8s folder:
+
+```bash
+kubectl apply -f K8s/biostudio-deployment.yaml
+kubectl apply -f K8s/biostudio-service.yaml
+kubectl apply -f K8s/ollama-deployment.yaml
+kubectl apply -f K8s/ollama-service.yaml
+```
+### 3. Access the Applications
+BioStudio: Accessible at http://localhost:30080 (assuming NodePort is configured as 30080).
+
+Ollama Server: Accessible at http://localhost:31434 (assuming NodePort is configured as 31434).
+
+If you are using Minikube, you can open the services using:
+
+```bash
+minikube service biostudio-service -n biostudio
+minikube service ollama-service -n biostudio
+```
+
 ![Screenshot](./screenshots/homepage.png)
 
