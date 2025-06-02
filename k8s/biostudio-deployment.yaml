@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: biostudio
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: biostudio
+  template:
+    metadata:
+      labels:
+        app: biostudio
+    spec:
+      containers:
+        - name: biostudio
+          image: man4ish/biostudio:latest
+          ports:
+            - containerPort: 8000
+          env:
+            - name: OLLAMA_API
+              value: http://ollama-service:11434
