@@ -20,3 +20,6 @@ spec:
           env:
             - name: OLLAMA_API
               value: http://ollama-service:11434
+      imagePullSecrets:
+        - name: dockerhub-secret
+

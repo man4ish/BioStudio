@@ -23,3 +23,9 @@ spec:
               port: 11434
             initialDelaySeconds: 10
             periodSeconds: 5
+          livenessProbe:
+            httpGet:
+              path: /api/health  # if available, or use /api/tags
+              port: 11434
+            initialDelaySeconds: 30
+            periodSeconds: 10

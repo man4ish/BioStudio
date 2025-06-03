@@ -6,6 +6,7 @@ spec:
   selector:
     app: biostudio
   ports:
-    - port: 8000
-      targetPort: 8000
-  type: NodePort  # or LoadBalancer if using cloud
+    - port: 8000         # The port exposed by the service
+      targetPort: 8000   # The port on the pod/container
+      nodePort: 30080    # (Optional) fixed NodePort if you want to access via a known port on the node
+  type: NodePort          # Use LoadBalancer if on cloud and want external access without NodePort
